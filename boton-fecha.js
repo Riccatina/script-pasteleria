@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     boton.id = "formulario-boton";
     boton.innerHTML = "📅 Seleccionar Fecha";
     boton.onclick = function() {
-        window.open(https://form.typeform.com/to/T87NLOBo, "_blank");
+        window.open("https://form.typeform.com/to/T87NLOBo", "_blank");
     };
     boton.style.position = "fixed";
     boton.style.bottom = "20px";
